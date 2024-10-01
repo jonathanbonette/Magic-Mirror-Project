@@ -5,8 +5,6 @@
 
 <b>Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina<br>
 Campus Florianópolis<br></b>
-**Professor:**  Robinson Pizzio e Matheus Leitzke Pinto<br>
-**Alunos:**  Alexsander Vieira e Jonathan Chrysostomo Cabral Bonette<br>
 </td></tr></table>
 
 * [1. Introdução](#1-introdução)
